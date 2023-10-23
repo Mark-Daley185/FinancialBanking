@@ -1,4 +1,4 @@
-# CS-210
+# FinancialBanking
 This project involved taking a users financial data and returning their year end interest and year end balance. User inputs were initial investment amount, monthly deposit, the amount of years the investment has to grow and the interest rate.
 Within this project I felt like i exemplified my skills of utilizing OOP to a great extent and also using functions in order to minimilize the amount of code within the main() function. I felt like I organized my member functions well also in order to get data from the objects that were created for the user data. 
 I felt like I could have improved on efficiency within my code. As im reviewing it I see that I declared some variables within functions that werent necessary but I did so in order to make sure the code ran without any errors. I could have went back and made it more organized but due to the fact that the code ran without errors I didnt want to change any lines and then generate erros. 
